@@ -8,4 +8,4 @@ This repository provides the official implementation of WSM-Net. The core model 
 
 ## Architecture
 
-![Architecture](figures/architecture.png)
+![Architecture](architecture.png)
